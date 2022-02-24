@@ -106,6 +106,7 @@ DOWNLOAD RESPONSE TIME
 	Note that you don't need to run any script in client side because it will run by ssh from server side
 
 # SUPPORT
-	Let us know by bellow Email address`s if you have any problem with this project.
+	Feel free to contact us by email if you have any further questions:
 	Ali Ahmadi : g.ecs3d@gmail.com
-	Parisa Abdolmaleki : -
+	Mohammad Nassiri : mohammad.nassiri78@gmail.com
+	
