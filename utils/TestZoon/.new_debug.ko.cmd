@@ -1,0 +1,1 @@
+cmd_/home/boolean/Workspace/Bufferbloat/utils/TestZoon/new_debug.ko := ld -r -m elf_x86_64 -T /usr/src/linux-headers-4.9.0-4-common/scripts/module-common.lds --build-id  -o /home/boolean/Workspace/Bufferbloat/utils/TestZoon/new_debug.ko /home/boolean/Workspace/Bufferbloat/utils/TestZoon/new_debug.o /home/boolean/Workspace/Bufferbloat/utils/TestZoon/new_debug.mod.o ;  true

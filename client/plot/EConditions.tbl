@@ -1,0 +1,21 @@
+
+                            Experiment Conditions
+ ---------------------------------------------------------------------------------
+  Parameter            Validation        Experiemnt Run 1        Experiment Run 2
+ ---------------------------------------------------------------------------------
+  Uplink Capacity       800Kbit/s         400Kbit/s               800Kbit/s
+  Downlink Capacity     5000Kbit/s        2400Kbit/s              5000Kbit/s
+  Uplink Delay          52ms              52ms                    52ms
+  Downlink Delay        42ms              42ms                    42ms
+  Uplink Buffer         120S              10S - 60S               10S - 60S
+  Downlink Buffer       120S              60S - 60S               90S - 90S
+  TCP Rate              800Kbps           2000Kbps                2000Kbps
+  Run Count             5                 5                       5
+  Time                  100s              100s                    100s
+  TCP Packet Size       1400B             1400B                   1400B
+  UDP Packet Size       1B                1B                      1B
+  TCP Variant           reno              reno                    reno
+ ---------------------------------------------------------------------------------
+  s : Second , B : Byte , S : Slot , ms : Mili Second
+ ---------------------------------------------------------------------------------
+

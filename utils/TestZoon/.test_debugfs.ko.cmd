@@ -1,0 +1,1 @@
+cmd_/home/tstclient/Bufferbloat/utils/TestZoon/test_debugfs.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/tstclient/Bufferbloat/utils/TestZoon/test_debugfs.ko /home/tstclient/Bufferbloat/utils/TestZoon/test_debugfs.o /home/tstclient/Bufferbloat/utils/TestZoon/test_debugfs.mod.o ;  true
